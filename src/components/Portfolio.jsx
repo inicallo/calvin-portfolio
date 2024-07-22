@@ -1,6 +1,6 @@
 // Portfolio
 import img1 from "../../filefoto/portfoto/FoodProduct.jpg"
-import img2 from "../../filefoto/portfoto/Property.jpg"
+import img2 from "../../filefoto/portfoto/GO.jpg"
 import img3 from "../../filefoto/portfoto/NPL-VeloRubyBerry.jpg"
 import img4 from "../../filefoto/portfoto/Garuda_Bot_at_DWP_2017.jpg"
 
