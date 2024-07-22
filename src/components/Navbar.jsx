@@ -1,6 +1,7 @@
 import toggle from "../toggle";
 import Hero from "./Hero";
 import React, { useRef, useEffect } from 'react';
+import img from "../../filefoto/CASTUDIO.png";
 
 
 export default function Navbar() {
@@ -29,7 +30,7 @@ export default function Navbar() {
                 <div className="flex items-center justify-between relative">
                     <div className="px-4">
                         <a href="#hero">
-                            <img src="filefoto/CASTUDIO.png" alt="calvin angelo" className="max-w-full mx-auto mt-2" style={{ width: '200px', height: 'auto' }} />
+                            <img src={img} alt="calvin angelo" className="max-w-full mx-auto mt-2" style={{ width: '200px', height: 'auto' }} />
                         </a>
                     </div>
                     <div className="flex items-center px-4">
